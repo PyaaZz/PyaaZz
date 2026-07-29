@@ -5,10 +5,9 @@
 </p>
 
 ## 🚀 About Me
-- 🎓 B.Tech Electronics & AI/ML student at **VJTI, Mumbai** (2023-2027)
+- 🎓 B.Tech Electronics & AI/ML student at **VJTI, Mumbai** 
 - 💡 Specializing in **Embedded Systems**, **Machine Learning**, and **Full-Stack Development**
 - 🛠️ Bridging physical hardware with modern software architectures
-- 🤝 Available for a **full-time 6-month internship**
 - 📫 Reach out to me: **granthikadhikari160007@gmail.com**
 
 ## 💻 Tech Stack & Skills
