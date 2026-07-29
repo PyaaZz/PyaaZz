@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Granthik Adhikari 👋</h1>
+<h1 align="center">Hi there, I'm ADI this side 👋</h1>
 
 <p align="center">
   <i>Electronics and AI/ML engineering student specializing in embedded systems, machine learning, and full-stack development.</i>
@@ -30,10 +30,15 @@
 
 <p align="center">
   <a href="https://github.com/PyaaZz">
-    <img src="https://github-readme-stats.vercel.app/api?username=PyaaZz&show_icons=true&theme=tokyonight&hide_border=true" alt="Granthik's GitHub stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PyaaZz&show_icons=true&theme=tokyonight&hide_border=true" alt="Granthik's GitHub stats" />
   </a>
   <a href="https://github.com/PyaaZz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyaaZz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://streak-stats.demolab.com?user=PyaaZz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/PyaaZz">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PyaaZz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
@@ -57,6 +62,3 @@
 
 
 ---
-<p align="center">
-  <i>Generated based on Granthik's resume!</i>
-</p>
