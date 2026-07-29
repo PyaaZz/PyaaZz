@@ -8,7 +8,7 @@
 - 🎓 B.Tech Electronics & AI/ML student at **VJTI, Mumbai** 
 - 💡 Specializing in **Embedded Systems**, **Machine Learning**, and **Full-Stack Development**
 - 🛠️ Bridging physical hardware with modern software architectures
-- 📫 Reach out to me: **granthikadhikari160007@gmail.com**
+- 📫 Reach out to me: **onemansvoice960@gmail.com**
 
 ## 💻 Tech Stack & Skills
 
