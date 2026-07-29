@@ -55,11 +55,6 @@
 - **Tech Stack:** `Embedded Linux (Raspberry Pi)`, `Sensors`, `Python Scripting`
 - Designed an IoT environmental monitoring and attendance system using an ARM-based SBC with Geo-fencing & SSO check-in.
 
-## 🏆 Certifications & Achievements
-- ☁️ **Oracle Cloud Infrastructure 2025 AI Foundations Associate**
-- 🐍 **Python for Everybody** (Coursera)
-- 🏅 Participant: **Smart India Hackathon** (Campus Round, 2024)
-- 🎪 Logistics Team Member at **Pratibimb** (VJTI Cultural Festival)
 
 ---
 <p align="center">
