@@ -1,13 +1,13 @@
-<h1 align="center">Hi there, I'm ADI this side 👋</h1>
+<h1 align="center">Hi there, I'm ADI this side </h1>
 
 <p align="center">
   <i>Electronics and AI/ML engineering student specializing in embedded systems, machine learning, and full-stack development.</i>
 </p>
 
-## 🚀 About Me
-- 💡 Specializing in **Embedded Systems**, **Machine Learning**, and **Full-Stack Development**
-- 🛠️ Bridging physical hardware with modern software architectures
-- 📫 Reach out to me: **onemansvoice960@gmail.com**
+## About Me
+-  Specializing in **Embedded Systems**, **Machine Learning**, and **Full-Stack Development**
+-  Bridging physical hardware with modern software architectures
+-  Reach out to me: **onemansvoice960@gmail.com**
 
 ## 💻 Tech Stack & Skills
 
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <a href="https://github.com/PyaaZz">
@@ -41,21 +41,21 @@
   </a>
 </p>
 
-## 🛠️ Featured Projects
+##  Featured Projects
 
-### 📊 Custom CRM Backend System
+###  Custom CRM Backend System
 - **Tech Stack:** `Python`, `REST APIs`, `SQL`, `Pandas`, `Postman`
 - Engineered a REST API backend utilizing OOP principles and data workflows to process bulk client data from CSV/Excel into a relational database.
 
-### 🌐 Web Analyzer
+###  Web Analyzer
 - **Tech Stack:** `Next.js`, `TypeScript`, `Python`, `Claude LLM API`
 - Developed a full-stack web performance analysis tool evaluating page load metrics, SEO, and user conversion.
 
-### 💼 Job Discovery Assistant
+###  Job Discovery Assistant
 - **Tech Stack:** `Python`, `Machine Learning`, `Automation`
 - Automated job-matching pipeline leveraging embedding-based similarity algorithms to map resumes against job descriptions.
 
-### 🎓 Smart Classroom Monitor
+###  Smart Classroom Monitor
 - **Tech Stack:** `Embedded Linux (Raspberry Pi)`, `Sensors`, `Python Scripting`
 - Designed an IoT environmental monitoring and attendance system using an ARM-based SBC with Geo-fencing & SSO check-in.
 
