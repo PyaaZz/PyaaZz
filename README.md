@@ -29,15 +29,15 @@
 
 <p align="center">
   <a href="https://github.com/PyaaZz">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PyaaZz&show_icons=true&theme=tokyonight&hide_border=true" alt="Granthik's GitHub stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PyaaZz&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Granthik's GitHub stats" />
   </a>
   <a href="https://github.com/PyaaZz">
-    <img src="https://streak-stats.demolab.com?user=PyaaZz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=PyaaZz&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/PyaaZz">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PyaaZz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PyaaZz&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
   </a>
 </p>
 
