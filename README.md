@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm ADI this side </h1>
+<h1 align="center">Hi there, I'm Granthik this side </h1>
 
 <p align="center">
   <i>Electronics and AI/ML engineering student specializing in embedded systems, machine learning, and full-stack development.</i>
